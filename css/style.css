@@ -121,3 +121,21 @@ img {
     float: left; 
     width: 70%;
 }
+
+.foot {
+    display: flex;
+    flex-direction: column;
+    background-image: url(/images/image\ 8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    padding: 5%;
+}
+
+button {
+    margin-top: 20px;
+    background-color: white;
+    color: #001f34;
+    outline: 3px solid white;
+   
+}
